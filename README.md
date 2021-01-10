@@ -11,7 +11,7 @@
 
 ## About
 
-We believe that "human AND AI" is much more powerful than "human OR AI" ([some external support](https://www.theatlantic.com/sponsored/deloitte-consulting-2017/cognitive-collaboration-why-humans-and-computers-think-better-together/1196/)). 
+We believe that "human AND AI" is much more powerful than "human OR AI" ([some external evidence](https://www.theatlantic.com/sponsored/deloitte-consulting-2017/cognitive-collaboration-why-humans-and-computers-think-better-together/1196/)). 
 
 The hil-se lab explores and provides machine learning solutions to assist humans in various software engineering tasks. These tasks include but are not limited to:
  - Retrieving relevant information.
