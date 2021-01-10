@@ -11,8 +11,7 @@
 
 ### Faculty
 
-#### Zhe Yu
-[HOME PAGE](https://zhe-yu.github.io/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[RESUME](https://zhe-yu.github.io/files/Resume.pdf)
+#### Zhe Yu | [HOME PAGE](https://zhe-yu.github.io/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[RESUME](https://zhe-yu.github.io/files/Resume.pdf)
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Yu_Zhe.png?raw=yes"> 
 
