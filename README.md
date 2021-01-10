@@ -4,6 +4,7 @@
 &nbsp;&nbsp;&nbsp;[PEOPLE](https://github.com/hil-se/hil-se/blob/main/people/people.md) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[PROJECTS](https://github.com/hil-se/hil-se/blob/main/projects.md) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[PAPERS](https://github.com/hil-se/hil-se/blob/main/papers.md) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[RESOURCES](https://github.com/hil-se/hil-se/blob/main/resources.md) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[CONTACT-US](https://github.com/hil-se/hil-se/blob/main/contact.md) &nbsp;&nbsp;&nbsp;
 
 [<img src="https://github.com/hil-se/hil-se/blob/main/img/collaborate.png?raw=yes">](https://www.vodafone-institut.de/aiandi/five-things-that-demonstrate-that-ai-and-human-collaboration-is-the-future/) 
