@@ -28,3 +28,11 @@ The hil-se lab explores and provides machine learning solutions to assist humans
 ### Faculty
 
 [<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Yu_Zhe.jpg?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md) 
+
+### Phd Students
+
+We are hiring!
+
+### Master Students
+
+
