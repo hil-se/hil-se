@@ -18,7 +18,7 @@
 | EMSE | 2020 | Agrawal, Amritanshu, Tim Menzies, Leandro L. Minku, Markus Wagner, and Zhe Yu. | [Better software analytics via DUO: Data mining algorithms using/used-by optimizers.](https://arxiv.org/abs/1812.01550) |
 | TSE | 2020 | Huy Tu, Zhe Yu, Tim Menzies. | [Better Data Labelling with EMBLEM (and how that Impacts Defect Prediction).](https://arxiv.org/abs/1905.01719) |
 | TSE | 2019 | Zhe Yu, Christopher Theisen, Laurie Williams, Tim Menzies. | [Improving Vulnerability Inspection Efficiency Using Active Learning.](https://arxiv.org/pdf/1803.06545) |
-| ESEC/FSE'19 SEIP | 2020 | Zhe Yu, Fahmid M. Fahid, Tim Menzies, Gregg Rothermel, Kyle Patrick, Snehit Cherian. | [TERMINATOR: Better Automated UI Test Case Prioritization.](https://arxiv.org/pdf/1905.07019) |
+| ESEC/FSE'19 SEIP | 2019 | Zhe Yu, Fahmid M. Fahid, Tim Menzies, Gregg Rothermel, Kyle Patrick, Snehit Cherian. | [TERMINATOR: Better Automated UI Test Case Prioritization.](https://arxiv.org/pdf/1905.07019) |
 | EXPERT SYST APPL | 2019 | Zhe Yu and Tim Menzies. | [FAST2: An intelligent assistant for finding relevant papers.](https://arxiv.org/pdf/1705.05420) |
 | EMSE | 2018 | Zhe Yu, Nicholas A. Kraft, and Tim Menzies. | [Finding Better Active Learners for Faster Literature Reviews.](https://arxiv.org/pdf/1612.03224) |
 | TSE | 2018 | Vivek Nair, Zhe Yu, Tim Menzies, Norbert Siegmund, and Sven Apel.  | [Finding faster configurations using flash.](https://arxiv.org/pdf/1801.02175) |
