@@ -9,7 +9,7 @@
 
 ## Courses
 
- - DSCI-633: [Foundation of Data Science](https://github.com/hil-se/fds). Introducing basic concepts of machine learning and the general workflow of how to solve a real problem with machine learning.
+ - DSCI-633: [Foundation of Data Science](https://github.com/hil-se/fds). Introducing basic concepts of machine learning and the general workflow of how to solve a real problem with machine learning. The best way to learn an algorithm is to implement and apply it youself. You will experience that in this course.
  
 ## Tools
 
