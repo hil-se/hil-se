@@ -16,7 +16,9 @@
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Yu_Zhe.png?raw=yes"> 
 
-&nbsp;&nbsp;&nbsp; Zhe Yu (Ph.D., NCSU, 2020) is an assistant professor in the Department of Software Engineering at Rochester Institute of Technology starting from August, 2020. He is also leading the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md) exploring how human-AI collaboration better solve various software engineering problems. His main research interests are human-computer collaboration, software engineering, machine learning, and information retrieval. For more information, please visit his home page or see his resume.
+Zhe Yu (Ph.D., NCSU, 2020) is an assistant professor in the Department of Software Engineering at Rochester Institute of Technology starting from August, 2020. He is also leading the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md) exploring how human-AI collaboration better solves various software engineering problems. His main research interests are human-computer collaboration, software engineering, machine learning, and information retrieval. 
+
+For more information, please visit his home page or see his resume.
 
 - **Service:**
   + **PCs:** MSR'21, ICSE'22
