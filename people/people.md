@@ -32,7 +32,7 @@ We are hiring!
 
 ### Master Students
 
-#### Ketaki Barde, MS Data Science
+#### Ketaki Barde
 
 <img align="left" width="150" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/barde_ketaki.jpg?raw=yes"> 
 
