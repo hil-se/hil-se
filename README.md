@@ -36,4 +36,5 @@ We are hiring!
 
 ### Master Students
 
+[<img align="left" width="150" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/barde_ketaki.jpg?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#ketaki-barde) 
 
