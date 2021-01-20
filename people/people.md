@@ -43,6 +43,8 @@ Ketaki Barde is a graduate student at the Data Science Program in Golisano Schoo
   + **Teaching Assitantship:** :[Foundation of Data Science], DSCI- 633 (https://github.com/ketakisbarde/DSCI-633) | [Applied Statistics], STAT 614, STAT 144/145
   + *Data Science and Machine Learning Co-op*, VPG Medical.
 
+#### Adarsh Balakrishnan
 
+<img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Adarsh.png?raw=yes"> 
 
-
+Adarsh Balakrishnan is a second year graduate student in Data Science. He is a member of [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md) working under Dr. Zhe Yu as a graduate assistant. He is keen on using Machine Learning to develop simple solutions for everyday problems. He is currently working on using few shot learning for text classification. He is interested in reinforcement learning, linguistics and neural networks.  
