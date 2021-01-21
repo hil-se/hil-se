@@ -36,7 +36,7 @@ We are hiring!
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/barde_ketaki.jpg?raw=yes"> 
 
-Ketaki Barde is a graduate student at the Data Science Program in Golisano School of Computing and Information Sciences, RIT since Fall 2019. She is a research assistant under the mentorship of Dr. Zhe Yu at the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md). Her primary projects involve software technical identification using deep learning models.  She is interested in dissecting machine learning and data science concepts to solve real world problems, especially involving human-AI synchrony. She is ardent about working with neural networks, machine learning, analytics and, data science applied to software engineering and other applied sciences domains.
+Ketaki Barde is a master student at the Data Science Program in Golisano School of Computing and Information Sciences, RIT since Fall 2019. She is a research assistant under the mentorship of Dr. Zhe Yu at the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md). Her primary projects involve software technical identification using deep learning models.  She is interested in dissecting machine learning and data science concepts to solve real world problems, especially involving human-AI synchrony. She is ardent about working with neural networks, machine learning, analytics and, data science applied to software engineering and other applied sciences domains.
 
 - **Experience:**
   + **Research Assitantship:** : Identifying Software Technical Debts with Convolutional and other Deep Nets.
