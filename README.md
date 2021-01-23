@@ -40,5 +40,5 @@ We are hiring!
 
 [<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Adarsh.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#adarsh-balakrishnan)
 
-[<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Adarsh.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#nishant-nair)
+[<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Nishant_Nair.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#nishant-nair)
 
