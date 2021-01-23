@@ -39,3 +39,6 @@ We are hiring!
 [<img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/barde_ketaki.jpg?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#ketaki-barde) 
 
 [<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Adarsh.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#adarsh-balakrishnan)
+
+[<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Adarsh.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#nishant-nair)
+
