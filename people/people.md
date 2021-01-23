@@ -53,4 +53,4 @@ Adarsh Balakrishnan is a second year graduate student in Data Science. He is a m
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Nishant_Nair.png?raw=yes"> 
 
-Nishant Nair is a pursuing his Masters in Data Science program in Golisano School of Computing and Information Sciences, RIT since Fall 2020. He is a graduate assistant working under the mentorship of Dr. Zhe Yu at the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md).
+Nishant Nair is a pursuing his Masters in the Data Science program in Golisano School of Computing and Information Sciences, RIT since Fall 2020. He is a graduate assistant working under the mentorship of Dr. Zhe Yu at the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md).
