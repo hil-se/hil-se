@@ -21,6 +21,9 @@ The hil-se lab explores and provides machine learning solutions to assist humans
 
 ## News
 
+01/22/2021 &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp; A new Master of Data Science student [Nishant Nair]((https://github.com/hil-se/hil-se/blob/main/people/people.md#nishant-nair)) has joined the lab as a graduate assistant!
+
 01/10/2021 &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp; This is the very beginning of the [hil-se](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Hooray!
 
