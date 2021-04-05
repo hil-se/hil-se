@@ -1,3 +1,5 @@
+<p>&nbsp;</p><p><a name=top></p>
+
 [<img width=100% src="https://github.com/hil-se/hil-se/blob/main/img/bar.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](https://github.com/hil-se/hil-se/blob/main/README.md) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[NEWS](https://github.com/hil-se/hil-se/blob/main/subs/news.md) &nbsp;&nbsp;&nbsp;|
@@ -8,8 +10,6 @@
 &nbsp;&nbsp;&nbsp;[CONTACT-US](https://github.com/hil-se/hil-se/blob/main/subs/contact.md) &nbsp;&nbsp;&nbsp;
 
 [<img src="https://github.com/hil-se/hil-se/blob/main/img/collaborate.png?raw=yes">](https://www.vodafone-institut.de/aiandi/five-things-that-demonstrate-that-ai-and-human-collaboration-is-the-future/) 
-
-<p>&nbsp;</p><p><a name=top></p>
 
 ## About
 
