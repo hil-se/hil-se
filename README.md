@@ -9,6 +9,8 @@
 
 [<img src="https://github.com/hil-se/hil-se/blob/main/img/collaborate.png?raw=yes">](https://www.vodafone-institut.de/aiandi/five-things-that-demonstrate-that-ai-and-human-collaboration-is-the-future/) 
 
+<p>&nbsp;</p><p><a name=top></p>
+
 ## About
 
 We believe that "human AND AI" is much more powerful than "human OR AI" ([some external evidence](https://www.theatlantic.com/sponsored/deloitte-consulting-2017/cognitive-collaboration-why-humans-and-computers-think-better-together/1196/)). 
