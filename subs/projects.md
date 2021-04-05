@@ -13,7 +13,7 @@
 
 ### Few-shot Active Learning for Better Information Retrieval
 
-Aug 2020 | [repo](https://github.com/hil-se/few-shot-citation-screening)
+Aug 2020 | [repo](https://github.com/hil-se/few-shot-citation-screening#top)
 
 This project aims to improve efficiency of information retrieval with a combination of few-shot learning and active learning.
  - When a deep neural network model learns to retrieve different relevant information (of the same type, e.g. literature reviews of different topics), it optimizes its inner structure so that it will learn faster and better to retrieve new, unseen information.
@@ -21,7 +21,7 @@ This project aims to improve efficiency of information retrieval with a combinat
 
 ### Better self-admitted technical debt identification with adaptive CNN.
 
-Aug 2020 | [repo](https://github.com/hil-se/Technical-Debt-Risks)
+Aug 2020 | [repo](https://github.com/hil-se/Technical-Debt-Risks#top)
 
 This project aims to improve efficiency of self-admitted technical debt identification with an adaptive CNN model.
  - Incorporate a CNN model in the framework of a human-in-the-loop self-admitted technical debt identification system.
@@ -30,7 +30,7 @@ This project aims to improve efficiency of self-admitted technical debt identifi
  
 ### Human Ethical Bias Detection with Machine Learning Software.
 
-Aug 2021 | [repo](https://github.com/hil-se/fairness)
+Aug 2021 | [repo](https://github.com/hil-se/fairness#top)
 
 Instead of trying to reduce bias in machine learning software, this project aims to reduce bias from its source--- the human decisions.
  - That is, this work proposes to utilize the machine learning bias inherited from the training data (human decisions) as an indicator for detecting human bias.
@@ -38,7 +38,7 @@ Instead of trying to reduce bias in machine learning software, this project aims
 
 ### Trace Link Prediction With Dual-Encoders
 
-Aug 2021 | [repo](https://github.com/hil-se/ADD)
+Aug 2021 | [repo](https://github.com/hil-se/ADD#top)
 
 Trace link prediction is a crucial problem to facilitate the maintenance of software projects.
  - This work proposes to customize the dual-encoder architecture for trace link prediction, especially in the inference strategy and the loss function for training. 
