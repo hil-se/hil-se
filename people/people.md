@@ -23,7 +23,7 @@ Zhe Yu (Ph.D., NCSU, 2020) is an assistant professor in the Department of Softwa
 For more information, please visit his home page or see his resume.
 
 - **Service:**
-  + **PCs:** MSR'21, ICSE'22
+  + **PCs:** MSR'21, ICSME'21, ICSE'22
 - **Teaching:**
   + **DSCI-633:** [Foundation of Data Science](https://github.com/hil-se/fds)
 
