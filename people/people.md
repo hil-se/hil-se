@@ -26,7 +26,7 @@ For more information, please visit his home page or see his resume.
   + **PCs:** MSR'21, ICSME'21, ICSE'22
 - **Teaching:**
   + **DSCI-633:** [Foundation of Data Science](https://github.com/hil-se/fds)
-
+  + **SWEN-352:** Software Testing
 
 ### Ph.D. Students
 
