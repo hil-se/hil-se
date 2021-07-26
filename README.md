@@ -37,7 +37,7 @@ The hil-se lab explores and provides machine learning solutions to assist humans
 
 ### Phd Students
 
-We are hiring!
+
 
 ### Master Students
 
