@@ -30,7 +30,7 @@ For more information, please visit his home page or see his resume.
 
 ### Ph.D. Students
 
-We are hiring!
+
 
 ### Master Students
 
