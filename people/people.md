@@ -40,7 +40,7 @@ Monoshiz Mahbub Khan is a first year graduate student at the PhD in Computing an
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Xiaoyin Xi.jpg?raw=yes"> 
 
-Xiaoyin Xi is a first year graduate student at the PhD in Computing and Information Sciences program, RIT since Fall 2021. He is a graduate research assistant working under Dr. Zhe Yu.<br><br><br>
+Xiaoyin Xi is a first year graduate student at the PhD in Computing and Information Sciences program, RIT since Fall 2021. He is a graduate research assistant working under Dr. Zhe Yu.<br><br><br><br>
 
 ### Master Students
   
