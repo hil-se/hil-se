@@ -34,13 +34,13 @@ For more information, please visit his home page or see his resume.
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Monoshiz_Mahbub_Khan.jpg?raw=yes"> 
 
-Monoshiz Mahbub Khan is a first year graduate student at the PhD in Computing and Information Sciences program, RIT since Fall 2021. He is a graduate research assistant working under Dr. Zhe Yu.<br><br>
+Monoshiz Mahbub Khan is a first year graduate student at the PhD in Computing and Information Sciences program, RIT since Fall 2021. He is a graduate research assistant working under Dr. Zhe Yu.<br><br><br>
   
 #### Xiaoyin Xi
 
 <img align="left" width="100" src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Xiaoyin Xi.jpg?raw=yes"> 
 
-Xiaoyin Xi is a first year Ph.D. student in Computing and Information Sciences program, studying in RIT since Fall 2021. His area of focus lies in the intersection of human–computer interaction and machine learning. He is currently a graduate research assistant advised by Dr. Zhe Yu.<br><br><br>
+Xiaoyin Xi is a first year Ph.D. student in Computing and Information Sciences program, studying in RIT since Fall 2021. His area of focus lies in the intersection of human–computer interaction and machine learning. He is currently a graduate research assistant advised by Dr. Zhe Yu.<br><br>
 
 ### Master Students
   
