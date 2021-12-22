@@ -11,22 +11,14 @@
 
 ## Projects
 
-### Few-shot Active Learning for Better Information Retrieval
+### Machine Learning Fairness in Regression.
 
-Aug 2020 | [repo](https://github.com/hil-se/few-shot-citation-screening#top)
+Oct 2021 | [repo](https://github.com/hil-se/FairBalance_Regression#top)
 
-This project aims to improve efficiency of information retrieval with a combination of few-shot learning and active learning.
- - When a deep neural network model learns to retrieve different relevant information (of the same type, e.g. literature reviews of different topics), it optimizes its inner structure so that it will learn faster and better to retrieve new, unseen information.
- - Active learning is also important in retrieving new, unseen information by (1) continuously learning from human decisions on which is relevant and (2) suggesting what should be reviewed next based on the learned model.
-
-### Better self-admitted technical debt identification with adaptive CNN.
-
-Aug 2020 | [repo](https://github.com/hil-se/Technical-Debt-Risks#top)
-
-This project aims to improve efficiency of self-admitted technical debt identification with an adaptive CNN model.
- - Incorporate a CNN model in the framework of a human-in-the-loop self-admitted technical debt identification system.
- - Explore ways to efficiently update the CNN model with incrementally obtained labels.
- - Make the prediction model of CNN adaptive to the target software project.
+While fairness in classification problems has been intensively explored, fairness in regression is still under-explored. This project aims to explore ML fairness in regression problems such as:
+  - How to better measure fairness in regression?
+  - How to reduce bias in regression problems?
+  - Is there a generalized methodology for both classification and regression fairness problems?
  
 ### Human Ethical Bias Detection with Machine Learning Software.
 
@@ -43,3 +35,21 @@ Aug 2021 | [repo](https://github.com/hil-se/ADD#top)
 Trace link prediction is a crucial problem to facilitate the maintenance of software projects.
  - This work proposes to customize the dual-encoder architecture for trace link prediction, especially in the inference strategy and the loss function for training. 
  - The designed dual-encoders will be able to encode different software artifacts into a shared encoding space. In that shared encoding space, artifacts connected by trace links would be closer to each other than the unconnected ones. 
+
+ 
+### Few-shot Active Learning for Better Information Retrieval
+
+Aug 2020 | [repo](https://github.com/hil-se/few-shot-citation-screening#top)
+
+This project aims to improve efficiency of information retrieval with a combination of few-shot learning and active learning.
+ - When a deep neural network model learns to retrieve different relevant information (of the same type, e.g. literature reviews of different topics), it optimizes its inner structure so that it will learn faster and better to retrieve new, unseen information.
+ - Active learning is also important in retrieving new, unseen information by (1) continuously learning from human decisions on which is relevant and (2) suggesting what should be reviewed next based on the learned model.
+
+### Better self-admitted technical debt identification with adaptive CNN.
+
+Aug 2020 | [repo](https://github.com/hil-se/Technical-Debt-Risks#top)
+
+This project aims to improve efficiency of self-admitted technical debt identification with an adaptive CNN model.
+ - Incorporate a CNN model in the framework of a human-in-the-loop self-admitted technical debt identification system.
+ - Explore ways to efficiently update the CNN model with incrementally obtained labels.
+ - Make the prediction model of CNN adaptive to the target software project.
