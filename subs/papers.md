@@ -14,6 +14,9 @@
 
 | Journal/Conference | Year | Authors | Title |
 |--------------------|------|---------|-------|
+| TBD | 2021 | Yu, Zhe, Xiaoyin Xi | [A Pilot Study on Detecting Unfairness in Human Decisions With Machine Learning Algorithmic Bias Detection.](https://arxiv.org/pdf/2112.11279) |
+| TBD | 2021 | Yu, Zhe, Joymallya Chakraborty, and Tim Menzies | [FairBalance: Improving Machine Learning Fairness on MultipleSensitive Attributes With Data Balancing.](https://arxiv.org/pdf/2107.08310) |
+| ASE Journal | 2021 | Abdullah AlOmar, Eman, Jiaqian Liu, Kenneth Addo, Mohamed Wiem Mkaouer, Christian Newman, Ali Ouni, and Zhe Yu | [On the Documentation of Refactoring Types.](https://arxiv.org/pdf/2112.01581) |
 | TSE | 2020 | Yu, Zhe, Fahmid Morshed Fahid, Huy Tu, and Tim Menzies | [Identifying Self-Admitted Technical Debts with Jitterbug: A Two-step Approach.](https://arxiv.org/pdf/2002.11049.pdf) |
 | EXPERT SYST APPL | 2020 | Yang, Xueqi, Zhe Yu, Junjie Wang, and Tim Menzies | [An Expert System for Learning Software Engineering Knowledge (with Case Studies in Understanding Static Code Warning).](https://arxiv.org/pdf/1911.01387) |
 | EMSE | 2020 | Yang, Xueqi, Jianfeng Chen, Rahul Yedida, Zhe Yu, and Tim Menzies. | [How to Recognize Actionable Static Code Warnings (Using Linear SVMs).](https://arxiv.org/pdf/2006.00444) |
