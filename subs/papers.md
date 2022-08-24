@@ -14,8 +14,8 @@
 
 | Journal/Conference | Year | Authors | Title |
 |--------------------|------|---------|-------|
-| TBD | 2021 | Yu, Zhe, Xiaoyin Xi | [A Pilot Study on Detecting Unfairness in Human Decisions With Machine Learning Algorithmic Bias Detection.](https://arxiv.org/pdf/2112.11279) |
-| TBD | 2021 | Yu, Zhe, Joymallya Chakraborty, and Tim Menzies | [FairBalance: Improving Machine Learning Fairness on MultipleSensitive Attributes With Data Balancing.](https://arxiv.org/pdf/2107.08310) |
+| TBD | 2022 | Yu, Zhe, Xiaoyin Xi | [A Pilot Study on Detecting Unfairness in Human Decisions With Machine Learning Algorithmic Bias Detection.](https://arxiv.org/pdf/2112.11279) |
+| TBD | 2022 | Yu, Zhe, Joymallya Chakraborty, and Tim Menzies | [FairBalance: Improving Machine Learning Fairness on MultiplFairer Machine Learning Software on Multiple Sensitive Attributes With Data Preprocessing.](https://arxiv.org/pdf/2107.08310) |
 | EXPERT SYST APPL | 2022 | Zhe Yu, Jeffrey C Carver, Gregg Rothermel, and Tim Menzies | [Assessing Expert System-Assisted Literature Reviews With a Case Study.](https://authors.elsevier.com/a/1etJS3PiGTLnwC) |
 | ASE Journal | 2021 | Abdullah AlOmar, Eman, Jiaqian Liu, Kenneth Addo, Mohamed Wiem Mkaouer, Christian Newman, Ali Ouni, and Zhe Yu | [On the Documentation of Refactoring Types.](https://arxiv.org/pdf/2112.01581) |
 | TSE | 2020 | Yu, Zhe, Fahmid Morshed Fahid, Huy Tu, and Tim Menzies | [Identifying Self-Admitted Technical Debts with Jitterbug: A Two-step Approach.](https://arxiv.org/pdf/2002.11049.pdf) |
